@@ -1,2 +1,3 @@
 # finepack-www
-Web front end for finepack module
+
+Web front end for [finepack](https://github.com/Kikobeats/finepack) module.
